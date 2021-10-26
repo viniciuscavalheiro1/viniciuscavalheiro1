@@ -1,4 +1,6 @@
-### Olá! Sou Vinícius Cavalheiro 💻🛠️
+### Olá! Sou Vinícius Cavalheiro desenvolvedor Full Stack 💻🛠️
+
+#### Entusiasta no desenvolvimento Full Cycle
 
 Sou apaixaonado por porgramção, tecnologia e inovação! Transformo sonhos em realidade através de código, estou em constante aprendizado 😝.
 
