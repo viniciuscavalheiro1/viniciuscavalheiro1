@@ -2,7 +2,7 @@
 
 #### Entusiasta no desenvolvimento Full Cycle
 
-Sou apaixaonado por porgramção, tecnologia e inovação! Transformo sonhos em realidade através de código, estou em constante aprendizado 😝.
+Sou apaixaonado por programação, tecnologia e inovação! Codando um dia de cada vez 😝.
 
 #### Minhas redes sociais
 
