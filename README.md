@@ -30,6 +30,4 @@ Sou apaixaonado por programação, tecnologia e inovação! Codando um dia de ca
 </div>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscavalheiro1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscavalheiro1&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
