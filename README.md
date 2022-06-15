@@ -1,6 +1,4 @@
-### Olá! Sou Vinícius Cavalheiro desenvolvedor Full Stack 💻🛠️
-
-#### Entusiasta no desenvolvimento Full Cycle
+### Olá! Sou Vinícius, e sou engenheiro de software backend 💻🛠️
 
 Sou apaixaonado por programação, tecnologia e inovação! Codando um dia de cada vez 😝.
 
