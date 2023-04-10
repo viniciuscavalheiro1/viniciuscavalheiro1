@@ -4,7 +4,7 @@ Sou apaixaonado por programação, tecnologia e inovação! Codando um dia de ca
 
 #### Minhas redes sociais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuscavalheiro/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius__cavalheiro/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5588998731443&text=Ol%C3%A1%20Vin%C3%ADcius)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuscavalheiro/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuslcavalheiro/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5588981975450&text=Ol%C3%A1%20Vin%C3%ADcius)
 
 ![Vinícius Cavalheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuscavalheiro1&show_icons=true&theme=merko)
 
